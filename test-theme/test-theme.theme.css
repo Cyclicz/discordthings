@@ -1,6 +1,6 @@
-//META{"name":"Minimalist Dark","description":"Stable Release","author":"Ruben7173","version":"1.0"}*//{}
+//META{"name":"test-theme","description":"Stable Release","author":"Cyclicz","version":"1.0"}*//{}
 
-@import url(https://rawgit.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/minimalistic-dark-theme/code.css);
+//@import url(importcodecss);
 
 /* Background */ /* Default BG: https://i.imgur.com/hwseeIN.jpg */
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .appMount-3VJmYg {
