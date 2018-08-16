@@ -1,6 +1,6 @@
 //META{"name":"test-theme","description":"Stable Release","author":"Cyclicz","version":"1.0"}*//{}
 
-//@import url(importcodecss);
+@import url(https://rawgit.com/Cyclicz/discordthings/master/test-theme/code.css);
 
 /* Background */ /* Default BG: https://i.imgur.com/hwseeIN.jpg */
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .appMount-3VJmYg {
